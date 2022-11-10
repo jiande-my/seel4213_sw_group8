@@ -2,3 +2,4 @@
 
 - Seak Jian De
 - Ong Yik Hern
+- Soh Khai Yang
